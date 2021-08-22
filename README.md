@@ -48,6 +48,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
+
 ### Station Analysis
 
 * Design a query to calculate the total number of stations in the dataset.
